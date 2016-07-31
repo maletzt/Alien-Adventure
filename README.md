@@ -23,4 +23,3 @@ Each question posed by an alien has an associated Swift file where you "implemen
 [Swift Language Guide] (https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
 
 Udacity Discussion Forum
-
