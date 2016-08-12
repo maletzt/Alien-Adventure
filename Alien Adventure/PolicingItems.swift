@@ -25,6 +25,7 @@ extension Hero {
                 errorCount[.ValueLessThan10]! += 1
                 
             } catch {
+                print ("Unknown error")
             }
         }
         return errorCount
